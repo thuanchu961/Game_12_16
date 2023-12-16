@@ -1,0 +1,104 @@
+
+BE.GP01_hd.png
+size: 315, 751
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bong
+  rotate: true
+  xy: 2, 246
+  size: 135, 183
+  orig: 135, 183
+  offset: 0, 0
+  index: -1
+Chan
+  rotate: false
+  xy: 55, 21
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+Co
+  rotate: false
+  xy: 2, 121
+  size: 163, 123
+  orig: 163, 123
+  offset: 0, 0
+  index: -1
+Hoa
+  rotate: true
+  xy: 2, 46
+  size: 73, 141
+  orig: 73, 141
+  offset: 0, 0
+  index: -1
+Ken
+  rotate: true
+  xy: 167, 77
+  size: 167, 113
+  orig: 167, 113
+  offset: 0, 0
+  index: -1
+Kinh
+  rotate: false
+  xy: 2, 383
+  size: 254, 130
+  orig: 254, 130
+  offset: 0, 0
+  index: -1
+Long_may
+  rotate: true
+  xy: 282, 77
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+Mat_1
+  rotate: false
+  xy: 145, 22
+  size: 143, 53
+  orig: 143, 53
+  offset: 0, 0
+  index: -1
+Mat_2
+  rotate: true
+  xy: 258, 246
+  size: 176, 48
+  orig: 176, 48
+  offset: 0, 0
+  index: -1
+Mat_3
+  rotate: true
+  xy: 238, 515
+  size: 176, 48
+  orig: 176, 48
+  offset: 0, 0
+  index: -1
+Mieng
+  rotate: true
+  xy: 2, 2
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+Que
+  rotate: false
+  xy: 288, 424
+  size: 25, 247
+  orig: 25, 247
+  offset: 0, 0
+  index: -1
+Tay
+  rotate: false
+  xy: 238, 693
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+Than
+  rotate: false
+  xy: 2, 515
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1

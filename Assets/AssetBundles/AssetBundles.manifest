@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2136229592
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testassetbundle
+      Dependencies: {}
+    Info_1:
+      Name: caroptions
+      Dependencies: {}
+    Info_2:
+      Name: music
+      Dependencies: {}
+    Info_3:
+      Name: sound
+      Dependencies: {}

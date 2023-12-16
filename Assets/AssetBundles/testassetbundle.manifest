@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4118681268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e794c2e8ecdc0e5f1fef01f3f1becc8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2719e568d5496433cb480f36ad9a3031
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/03 Prefabs/PinkCar.prefab
+- Assets/03 Prefabs/BlueCar.prefab
+- Assets/03 Prefabs/OrangeCar.prefab
+Dependencies: []

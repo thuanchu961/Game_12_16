@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3800424919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a479c9d632b54483509f05f50d389282
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Sounds/CrowdCheering.mp3
+- Assets/Resources/Sounds/ItemTouch.wav
+- Assets/Resources/Sounds/Guiding.mp3
+- Assets/Resources/Sounds/NiceDriving.mp3
+- Assets/Resources/Sounds/t.mp3
+- Assets/Resources/Sounds/EnergyPowerUp.wav
+- Assets/Resources/Sounds/Guidding 1.mp3
+- Assets/Resources/Sounds/Intro.mp3
+- Assets/Resources/Sounds/mat.mp3
+- Assets/Resources/Sounds/StadiumCrowdCheering.mp3
+- Assets/Resources/Sounds/CountDown.wav
+- Assets/Resources/Sounds/EnergyTouch.mp3
+- Assets/Resources/Sounds/m.mp3
+- Assets/Resources/Sounds/CrowdDisappoint.mp3
+- Assets/Resources/Sounds/a.mp3
+- Assets/Resources/Sounds/GreatChoice.mp3
+Dependencies: []

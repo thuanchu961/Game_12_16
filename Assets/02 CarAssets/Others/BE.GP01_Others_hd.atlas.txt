@@ -1,0 +1,153 @@
+
+BE.GP01_Others_hd.png
+size: 1939, 324
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: true
+  xy: 170, 53
+  size: 115, 203
+  orig: 115, 203
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1407, 40
+  size: 152, 204
+  orig: 152, 204
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1781, 116
+  size: 153, 206
+  orig: 153, 206
+  offset: 0, 0
+  index: -1
+Banh_xe_nho
+  rotate: false
+  xy: 949, 3
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+Banh_xe_to
+  rotate: false
+  xy: 1852, 29
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+Binh_tang_toc
+  rotate: false
+  xy: 1613, 35
+  size: 109, 157
+  orig: 109, 157
+  offset: 0, 0
+  index: -1
+Co
+  rotate: false
+  xy: 375, 45
+  size: 163, 123
+  orig: 163, 123
+  offset: 0, 0
+  index: -1
+Go!
+  rotate: false
+  xy: 578, 139
+  size: 396, 183
+  orig: 396, 183
+  offset: 0, 0
+  index: -1
+Hao_quang
+  rotate: false
+  xy: 2, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+Nguoi_cam
+  rotate: false
+  xy: 1724, 4
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+Nguoi_hong
+  rotate: false
+  xy: 821, 27
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+Nguoi_xanh
+  rotate: false
+  xy: 693, 27
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+Que
+  rotate: true
+  xy: 170, 19
+  size: 25, 247
+  orig: 25, 247
+  offset: 0, 0
+  index: -1
+Tang_toc_1
+  rotate: true
+  xy: 540, 43
+  size: 94, 151
+  orig: 101, 151
+  offset: 7, 0
+  index: -1
+Tang_toc_2
+  rotate: false
+  xy: 2, 170
+  size: 574, 152
+  orig: 582, 152
+  offset: 8, 0
+  index: -1
+Tay_lai_cam
+  rotate: false
+  xy: 1087, 28
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+Tay_lai_hong
+  rotate: false
+  xy: 1022, 14
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+Tay_lai_xanh
+  rotate: false
+  xy: 1055, 22
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+Xe_cam
+  rotate: false
+  xy: 976, 77
+  size: 429, 115
+  orig: 429, 115
+  offset: 0, 0
+  index: -1
+Xe_hong
+  rotate: false
+  xy: 1389, 194
+  size: 390, 128
+  orig: 390, 128
+  offset: 0, 0
+  index: -1
+Xe_xanh
+  rotate: false
+  xy: 976, 196
+  size: 411, 126
+  orig: 411, 126
+  offset: 0, 0
+  index: -1
